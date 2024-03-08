@@ -1,0 +1,38 @@
+{
+    "title": "Xin Chào",
+    "msg": "Xin chào {} đến với thế giời {}",
+    "msg_named": "{} đang viết bằng ngôn ngữ {lang}",
+    "clickMe": "Click me",
+    "profile": {
+        "reset_password": {
+            "label": "Mật khẩu mặc định",
+            "username": "Tên đăng nhập",
+            "password": "Mật khẩu"
+        }
+    },
+    "clicked": {
+        "zero": "Nhấn {} lần",
+        "one": "Nhấn {} lần",
+        "two": "Nhấn {} lần",
+        "few": "Nhấn {} lần",
+        "many":"Nhấn {} lần",
+        "other":"Nhấn {} lần"
+    },
+    "amount": {
+        "zero": "Số lần bạn có : {} ",
+        "one": "Số lần bạn có : {} ",
+        "two": "Số lần bạn có : {} ",
+        "few": "Số lần bạn có: {} ",
+        "many": "Số lần bạn có: {} ",
+        "other": "Số lần bạn có: {} "
+    },
+    "gender": {
+        "male": "Chào ông ;) ",
+        "female": "Chào bà :)",
+        "with_arg": {
+            "male": "Chào ông ;) {}",
+            "female": "Chào bà :) {}"
+        }
+    },
+    "reset_locale": "Ngôn ngữ mặc định"
+}
