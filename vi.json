@@ -1,6 +1,6 @@
 {
     "title": "Xin Chào",
-    "msg": "Xin chào {} đến với thế giời {}",
+    "msg": "Xin chào {} đến với thế giới {}",
     "msg_named": "{} đang viết bằng ngôn ngữ {lang}",
     "clickMe": "Click me",
     "profile": {
@@ -19,12 +19,12 @@
         "other":"Nhấn {} lần"
     },
     "amount": {
-        "zero": "Số lần bạn có : {} ",
-        "one": "Số lần bạn có : {} ",
-        "two": "Số lần bạn có : {} ",
-        "few": "Số lần bạn có: {} ",
-        "many": "Số lần bạn có: {} ",
-        "other": "Số lần bạn có: {} "
+        "zero": "Số tiền bạn đang có : {} ",
+        "one": "Số tiền bạn đang có : {} ",
+        "two": "Số tiền bạn đang có : {} ",
+        "few": "Số tiền bạn đang có: {} ",
+        "many": "Số tiền bạn đang có: {} ",
+        "other": "Số tiền bạn đang có: {} "
     },
     "gender": {
         "male": "Chào ông ;) ",
