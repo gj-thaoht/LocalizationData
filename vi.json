@@ -1,8 +1,8 @@
 {
     "title": "Ứng dụng demo siêu đỉnh ^^",
-    "msg": "Xin chào {} đến với thế giới {}",
+    "msg": "Chào mừng {} đến với thế giới {}",
     "msg_named": "{} đang viết bằng ngôn ngữ {lang}",
-    "clickMe": "Click me",
+    "clickMe": "Nhấn vào tôi để kiếm thật nhiều tiền",
     "profile": {
         "reset_password": {
             "label": "Mật khẩu mặc định",
@@ -19,12 +19,12 @@
         "other":"Nhấn {} lần"
     },
     "amount": {
-        "zero": "Số tiền bạn đang có : {} ",
-        "one": "Số tiền bạn đang có : {} ",
-        "two": "Số tiền bạn đang có : {} ",
-        "few": "Số tiền bạn đang có: {} ",
-        "many": "Số tiền bạn đang có: {} ",
-        "other": "Số tiền bạn đang có: {} "
+        "zero": "Số tiền mà bạn đang có : {} ",
+        "one": "Số tiền mà bạn đang có : {} ",
+        "two": "Số tiền mà bạn đang có : {} ",
+        "few": "Số tiền mà bạn đang có: {} ",
+        "many": "Số tiền mà bạn đang có: {} ",
+        "other": "Số tiền mà bạn đang có: {} "
     },
     "gender": {
         "male": "Chào ông ;) ",
